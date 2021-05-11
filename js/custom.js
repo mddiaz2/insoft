@@ -91,11 +91,12 @@ $(function () {
   /* typejs
   -------------------------------------------------------*/
   $('.header .caption h2 span').typed({
-    strings: ["novación","teligencia","tegridad"],
+    strings: ["Innovación","Inteligencia","Integridad","Software","INSOFT!"],
     loop: true,
     startDelay: 1000,
     backDelay: 2000
   });
+
 
 
   /* progress bar
